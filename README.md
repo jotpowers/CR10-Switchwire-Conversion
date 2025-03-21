@@ -37,7 +37,7 @@ But, I'm not going to be unreasonable here.
 
 Well, that was a slow couple of years.  Just got to the annoying debug/triage part and it just sat around.  But my son was in town and we wanted to try to get TPU printing, so pushed forward.
 
-* It's pushing plastic, but no successful prints yet.  :) 
+* It's pushing plastic!  
 
 
 # Progress Pictures
@@ -51,6 +51,7 @@ You can see the progress over in the [progress pics](progress.md).
 # Things to document
 * Thicker XZ pulley's created
 * Find power supply holders
+* The TAP switchwire mount
 
 
 # Iteration
