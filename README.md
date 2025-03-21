@@ -37,7 +37,7 @@ But, I'm not going to be unreasonable here.
 
 Well, that was a slow couple of years.  Just got to the annoying debug/triage part and it just sat around.  But my son was in town and we wanted to try to get TPU printing, so pushed forward.
 
-* It's pushing plastic!
+* It's pushing plastic, but no successful prints yet.  :) 
 
 
 # Progress Pictures
