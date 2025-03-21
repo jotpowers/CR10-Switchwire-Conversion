@@ -13,16 +13,18 @@ Keep as much of the CR10 stock as possible.  Ideally, you would be able to rever
 * Stock frame
 * Existing motors  (except extruder, which is going direct drive)
 * 12V power supply (which results in a bunch of downstream dependencies)
-* DC bed heater.  (I may change my mind on this, seeing how terrible it is and it wasn't great to work with.)
+  * Yeah, this didn't work out.  I couldn't figure out why the fans wouldn't spin up and various other issues.  Turns out, even when turned all the way up, this 12V power supply was putting out like 10.3V.  I replaced it with [this one from Amazon.](https://www.amazon.com/dp/B0131UU9E2?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
+* DC bed heater 
 
 But, I'm not going to be unreasonable here.
 
 * I had already replaced the stock CR10 hotend a long time ago.  I'll go with Afterburner/Stealthburner here.
+  * I went with Stealthburner as well as TAP.
 * Going to run klipper
   * This means I need a Raspberry Pi
   * Also I'll probably have a dedicated 5V power supply
 
-# Current status
+# Status as of 2022
 
 * The electronics are mostly working and I have a "wire harness" in.
 * Hotend is assembled, but not wired up.
@@ -31,12 +33,24 @@ But, I'm not going to be unreasonable here.
 * Have temperature from both thermistors
 * Can heat the bed
 
+# Current status (as of March of 2025)
+
+Well, that was a slow couple of years.  Just got to the annoying debug/triage part and it just sat around.  But my son was in town and we wanted to try to get TPU printing, so pushed forward.
+
+* It's pushing plastic!
+
+
+# Progress Pictures
 You can see the progress over in the [progress pics](progress.md).
 
 # Upcoming problems
 
 * Bed height/leveling is going to be an issue.  Can't pull the bed down too low against the springs because the bolts can hit the cable chain.  Might need shorter bolts.
-* Binding/leveling on the z-axis.  It's not very good right now.
+  * Think I solved this.  Need to document.
+
+# Things to document
+* Thicker XZ pulley's created
+* Find power supply holders
 
 
 # Iteration
