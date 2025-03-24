@@ -1,6 +1,6 @@
 # Introduction
 
-Back in ~2017 my 16 year old son saved his money up and bought and assmbled a 300mm Creality CR-10 [1] . It was the first of the post-kickstarter systems, so had some rough edges.  There are plenty of things I don't like about it, but for its cost and time, it's a pretty amazing machine.  When COVID hit and I started printing a bunch of faceshield pieces for Masks4Docs it was a workhorse. But, I kept doing more and more mods to it, but wasn't very reliable.  Finally the SKR controller board (that had replaced the original) broke.  (One day both the bed and hotend thermistors slowly started reading strange numbers).  At that point I was done, and thus began me building a Voron 2.4.
+Back in ~2017 my 16 year old son saved his money up and bought and assembled a 300mm Creality CR-10 [1] . It was the first of the post-kickstarter systems, so had some rough edges.  There are plenty of things I don't like about it, but for its cost and time, it's a pretty amazing machine.  When COVID hit and I started printing a bunch of faceshield pieces for Masks4Docs it was a workhorse. But, I kept doing more and more mods to it, but wasn't very reliable.  Finally the SKR controller board (that had replaced the original) broke.  (One day both the bed and hotend thermistors slowly started reading strange numbers).  At that point I was done, and thus began me building a Voron 2.4.
 
 But, I have this perfectly good frame, with motors and some spare parts left over from my 2.4 build...
 
